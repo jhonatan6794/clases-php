@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-echo "Bienvenidos a aprenderaprogramar.com";
+echo "Bienvenidos a php22";
 ?>
 </body>
 </html>
